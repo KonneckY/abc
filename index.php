@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-    <div class="dwaraz">123</div>
+    
     <div class="cont">
         <div class="one"></div>
         <div class="two">
